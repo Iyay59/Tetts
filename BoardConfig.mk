@@ -14,7 +14,7 @@
 # limitations under the License.
 #
 
-DEVICE_PATH := device/inone/cactus
+DEVICE_PATH := device/inone/A5s
 
 # Platform
 TARGET_BOARD_PLATFORM := mt6761
